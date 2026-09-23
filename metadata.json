@@ -1,0 +1,9 @@
+{
+  "name": "VidhiTax - India Tax & Regulatory Advisory Copilot",
+  "description": "Professional research and drafting workbench for Chartered Accountants, finance professionals, and CFOs. Delivers structured, source-grounded advisory across Income Tax, GST, MCA/Companies Act, TDS, and International Tax.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
